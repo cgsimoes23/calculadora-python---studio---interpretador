@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python - Studio & Interpretador",
+  "description": "Calculadora interativa com motor Python em tempo real, visualização de código, modo científico, financeiro e scripts Python para download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
